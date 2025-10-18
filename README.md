@@ -21,7 +21,6 @@
 - [Model Performance](#model-performance)
 - [Key Insights](#key-insights)
 - [Project Structure](#project-structure)
-- [Results & Visualizations](#results--visualizations)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -292,19 +291,6 @@ Telco-Customer-Churn-Prediction/
 └── .gitignore
 ```
 
-## 🎨 Results & Visualizations
-
-### Churn Distribution
-![Churn Distribution](visualizations/churn_distribution.png)
-
-### Feature Importance
-![Feature Importance](visualizations/feature_importance.png)
-
-### ROC Curve
-![ROC Curve](visualizations/roc_curve.png)
-
-### Confusion Matrix
-![Confusion Matrix](visualizations/confusion_matrix.png)
 
 ## 🚀 Future Enhancements
 
