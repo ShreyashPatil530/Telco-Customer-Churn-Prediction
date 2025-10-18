@@ -7,7 +7,6 @@
 
 > A comprehensive machine learning project to predict customer churn in the telecommunications industry using advanced data science techniques and multiple ML algorithms.
 
-![Telco Churn Banner](https://via.placeholder.com/1200x300/2c3e50/ffffff?text=Telco+Customer+Churn+Prediction)
 
 ## 📋 Table of Contents
 
